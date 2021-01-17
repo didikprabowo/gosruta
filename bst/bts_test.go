@@ -1,9 +1,9 @@
-package bts_test
+package bst_test
 
 import (
 	"testing"
 
-	. "github.com/didikprabowo/structur-data/bts"
+	. "github.com/didikprabowo/structur-data/bst"
 )
 
 func TestInsert(t *testing.T) {
